@@ -3,3 +3,6 @@ We offered two datasets that can be potentially employed as standard datasets fo
 
 The dataset is available at (链接)：https://pan.baidu.com/s/1qxP8EGmQgJp9ipb_uO_dpA 
 password (提取码)：tsce
+
+Please cite the following paper: 
+  Wu, J., Lin, L., Li, T., Cheng, Q., Zhang, Q., & Shen, H. (2022). Fusing Landsat 8 and Sentinel-2 data for 10-m dense time-series imagery using a degradation-term constrained deep network. International Journal of Applied Earth Observations and Geoinformation （major revision）
